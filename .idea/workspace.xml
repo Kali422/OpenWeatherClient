@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f33be62-912f-4fc9-84c1-66b4c0d98b7a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="WeatherDatabase" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="WeatherDatabase" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="WeatherDatabase" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="WeatherDatabase" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>//$view = new WeatherView();</find>
+      <find>(new OpenWeatherClient()</find>
+      <find>zend</find>
+      <find>ide</find>
+      <find>@attributes</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$this-&gt;openWeatherClient</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/WeatherAppTests</dir>
+    </dirStrings>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_show_addresses="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="a5a57be5-2386-42f7-9e27-b7b45c32e44d" name="localhost" />
+      <server host="PhpStorm 2019.1.3" id="961f0c77-5393-4b51-a596-7a92f9db241f" name="PhpStorm 2019.1.3" port="63342" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/cmfcmf/openweathermap-php-api" />
+      <path value="$PROJECT_DIR$/vendor/http-interop/http-factory-guzzle" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1P8n7guC5mZmTCO0dizEDcHdCYq" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WeatherApp/Api" />
+      <recent name="$PROJECT_DIR$/WeatherApp/Apirep" />
+      <recent name="$PROJECT_DIR$/Rebuild/Api" />
+      <recent name="$PROJECT_DIR$/Rebuild" />
+      <recent name="$PROJECT_DIR$/WeatherApp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.WeatherAppTests">
+    <configuration name="ControllerTests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="WeatherAppTests\ControllerTests" file="$PROJECT_DIR$/WeatherAppTests/ControllerTests.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FactoryTests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="WeatherAppTests\FactoryTests" file="$PROJECT_DIR$/WeatherAppTests/FactoryTests.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ServiceTests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="WeatherAppTests\ServiceTests" file="$PROJECT_DIR$/WeatherAppTests/ServiceTests.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ViewTests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="WeatherAppTests\ViewTests" file="$PROJECT_DIR$/WeatherAppTests/ViewTests.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherAppTests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/WeatherAppTests" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runApp.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/runApp.php" scriptParameters="current city Warsaw">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/test.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.test.php" />
+      <item itemvalue="PHP Script.runApp.php" />
+      <item itemvalue="PHPUnit.ControllerTests" />
+      <item itemvalue="PHPUnit.FactoryTests" />
+      <item itemvalue="PHPUnit.ServiceTests" />
+      <item itemvalue="PHPUnit.ViewTests" />
+      <item itemvalue="PHPUnit.WeatherAppTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.WeatherAppTests" />
+        <item itemvalue="PHPUnit.ViewTests" />
+        <item itemvalue="PHPUnit.ServiceTests" />
+        <item itemvalue="PHPUnit.FactoryTests" />
+        <item itemvalue="PHPUnit.ControllerTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f33be62-912f-4fc9-84c1-66b4c0d98b7a" name="Default Changelist" comment="" />
+      <created>1562764488917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562764488917</updated>
+      <workItem from="1562764489975" duration="879000" />
+      <workItem from="1562827200119" duration="16208000" />
+      <workItem from="1562845135964" duration="2403000" />
+      <workItem from="1562850675937" duration="744000" />
+      <workItem from="1562913845836" duration="4927000" />
+      <workItem from="1562919010086" duration="18658000" />
+      <workItem from="1563172720484" duration="21533000" />
+      <workItem from="1563259514143" duration="18246000" />
+      <workItem from="1563345641586" duration="9670000" />
+      <workItem from="1563355563180" duration="12987000" />
+      <workItem from="1563431817439" duration="10712000" />
+      <workItem from="1565264426887" duration="1660000" />
+      <workItem from="1565266880580" duration="975000" />
+      <workItem from="1565269894712" duration="1424000" />
+      <workItem from="1565335773166" duration="3088000" />
+      <workItem from="1565355935775" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ClientTests_testGetWeatherByCity - 2019.07.18 at 11h 15m 27s.xml">
+      <configuration name="ClientTests.testGetWeatherByCity" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ClientTests_testGetWeatherByCity - 2019.07.18 at 11h 15m 37s.xml">
+      <configuration name="ClientTests.testGetWeatherByCity" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ClientTests - 2019.07.18 at 11h 20m 27s.xml">
+      <configuration name="ClientTests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeatherAppTests - 2019.07.18 at 11h 20m 32s.xml">
+      <configuration name="WeatherAppTests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ClientTests - 2019.07.18 at 11h 20m 37s.xml">
+      <configuration name="ClientTests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ControllerTests - 2019.07.18 at 11h 20m 41s.xml">
+      <configuration name="ControllerTests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FactoryTests - 2019.07.18 at 11h 20m 45s.xml">
+      <configuration name="FactoryTests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ServiceTests - 2019.07.18 at 11h 20m 48s.xml">
+      <configuration name="ServiceTests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ViewTests - 2019.07.18 at 11h 20m 51s.xml">
+      <configuration name="ViewTests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="WeatherAppTests - 2019.07.18 at 11h 21m 21s.xml">
+      <configuration name="WeatherAppTests" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

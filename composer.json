@@ -1,0 +1,20 @@
+{
+  "autoload": {
+    "classmap": [
+      "WeatherApp",
+      "WeatherAppTests"
+    ]
+  },
+  "require": {
+    "cmfcmf/openweathermap-php-api": "3.*",
+    "php-http/guzzle6-adapter": "2.*",
+    "http-interop/http-factory-guzzle": "1.*",
+    "ext-json": "*",
+    "ext-simplexml": "*",
+    "ext-sqlite3": "*",
+    "ext-curl": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8"
+  }
+}
